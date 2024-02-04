@@ -1,0 +1,21 @@
+{
+    "data": [
+      {
+        "question": "What is your name?",
+        "answer": "I am a chatbot."
+      },
+      {
+        "question": "How does a chatbot work?",
+        "answer": "A chatbot works by processing and understanding user input and providing relevant responses based on predefined patterns or machine learning models."
+      },
+      {
+        "question": "Can you tell a joke?",
+        "answer": "Sure, here's a joke: Why don't scientists trust atoms? Because they make up everything!"
+      },
+      {
+        "question": "What is the meaning of life?",
+        "answer": "The meaning of life is subjective and varies for each individual. It's a philosophical question with no definitive answer."
+      }
+    ]
+  }
+  
